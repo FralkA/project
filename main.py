@@ -7,6 +7,6 @@ def second_file():
         print(file_2.read())
 
 def main():
-    new_file('tata.txt', 'Kikou 2')
+    new_file('test.txt', 'Hello World !')
 
 main()
